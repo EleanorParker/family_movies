@@ -1,5 +1,5 @@
 # List of family movies that we watch
 
--Alddin 
--umbo
--oana
+-Aladdin 
+-Dumbo
+-Moana
