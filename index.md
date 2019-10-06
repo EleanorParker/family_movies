@@ -1,5 +1,2 @@
-# List of family movies that we watch
+# List of Parker family movies that we watch
 
--Alddin 
--Dumb
--Moan
